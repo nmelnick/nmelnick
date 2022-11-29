@@ -8,5 +8,6 @@ I...
 - am on Twitter at https://twitter.com/nmelnick
 - am on Mastodon at <a href="https://mastodon.social/@nrmelnick" rel="me">https://mastodon.social/@nrmelnick</a>
 - make disorganized videos on YouTube at https://www.youtube.com/c/breakallthethings
+- keep this list of links over at https://linktr.ee/nrmelnick
 - use he/him
 - am always open for a chat
