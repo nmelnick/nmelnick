@@ -6,7 +6,7 @@ I...
 
 - very occasionally blog at https://www.nmelnick.com
 - am on Twitter at https://twitter.com/nmelnick
-- am on Mastodon at <a href="https://mastodon.social/@nrmelnick" rel="me">https://mastodon.social/@nrmelnick</a>
+- am on Mastodon at <a href="https://hachyderm.io/@nrmelnick" rel="me">https://hachyderm.io/@nrmelnick</a>
 - make disorganized videos on YouTube at https://www.youtube.com/c/breakallthethings
 - keep this list of links over at https://linktr.ee/nrmelnick
 - use he/him
